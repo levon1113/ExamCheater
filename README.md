@@ -1,4 +1,4 @@
-# Artagrox-V2
+# Exam Cheater
 
 # Shortcuts
 START = 'shift+s'
